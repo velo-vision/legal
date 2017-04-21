@@ -56,6 +56,7 @@ font-size: 20px;
 a {
 text-decoration: none;
 }
+
 .inovacion{
   color: white;
   font-family: 'Montserrat', sans-serif;
@@ -106,7 +107,7 @@ text-decoration: none;
         <!-- logo -->
         <div class="logo">
             <a href="#!" title="Legal Nest">
-                <img src="images/recursos/legal-nest.png" style="width:400px;margin-bottom: 20px;">
+                <img src="images/recursos/legal-nest.png" style="width:400px;margin-bottom: 20px;margin-right: 50px;">
             </a>
         </div>
         <!-- fim logo -->

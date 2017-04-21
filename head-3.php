@@ -56,7 +56,7 @@
     <div class="row nomargin hide-on-small-only hide-on-med-only">
       <div class="col l3">
         <div class="col l12 logo-legal">
-          <a href="#!"><img src="images/recursos/logo.png" title="Logo header" alt="Legal Nest"></a>
+          <a href="index.php"><img src="images/recursos/logo.png" title="Logo header" alt="Legal Nest"></a>
         </div>
       </div>
       <div class="col l9">

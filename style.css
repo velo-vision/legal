@@ -545,9 +545,10 @@ padding: 10px 0 !important;
 .que-es2{
   color: #5d5d5d;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: 400;
   line-height:2;
+  text-align: justify;
 }
 .que-es2 strong{
   font-weight: 600;
@@ -571,7 +572,7 @@ padding: 10px 0 !important;
   font-size: 1.2em !important;
   font-weight: 400 !important;
   line-height:1.7 !important;
-  text-align: left;
+  text-align: justify;
   max-width: 95%;
 }
 .testimonio strong{
@@ -762,7 +763,7 @@ padding: 10px 0 !important;
   font-weight: 600;
 }
 .pro-bono span{
-  color: #a8a89f;
+  color: #fff;
   font-weight: 600;
 }
 .pro-bono b{
@@ -912,9 +913,10 @@ padding: 10px 0 !important;
 .texto-rombos{
   color: #5d5d5d;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: 500;
   line-height: 1.8;
+  text-align: justify;
 }
 .texto-rombos strong{
   color: white;
