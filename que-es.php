@@ -16,7 +16,7 @@
       <div class="col l6 m10 offset-m1 s12 top-50">
         <div class="col l10 offset-l1 m12 s12 que-es">
           <p class="nomargin">¿Qué es</p>
-          <p class="nomargin"><strong>Legal Nest?</strong></p>
+          <p class="nomargin"><strong>LegalNest?</strong></p>
         </div>
         <div class="col l10 offset-l1 que-es2 top-50">
           <p>
@@ -29,7 +29,7 @@
       </div>
       <div class="col l6 m6 offset-m3 s12 center imagen-somos">
         <div class="col l10 offset-l1 imagen-que">
-          <img src="images/recursos/que-es.png" title="Quiénes Somos" alt="Legal Nest">
+          <img src="images/recursos/que-es.png" title="Quiénes Somos" alt="LegalNest">
         </div>
       </div>
     </div>

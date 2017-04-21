@@ -1,9 +1,9 @@
 <!DOCTYPE html>
  <html>
    <head>
-    <title>Legal Nest</title>
+    <title>LegalNest</title>
  		<meta name="author" content="VELOSOFT"/>
- 		<meta name="description" content="Legal Nest | News rules, new laws, new ways" />
+ 		<meta name="description" content="LegalNest | News rules, new laws, new ways" />
  		<meta name="Resource-type" content="Document" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
  		 <link rel="shortcut icon" href="images/favicon.ico"/>
@@ -23,15 +23,15 @@
     <div class="row nomargin hide-on-large-only">
       <nav>
         <div class="nav-wrapper">
-          <a href="quienes-somos.php"><img width="130px;" src="images/recursos/logo.png" title="Logo header" alt="Legal Nest"></a>
+          <a href="quienes-somos.php"><img width="130px;" src="images/recursos/logo.png" title="Logo header" alt="LegalNest"></a>
           <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
           <ul class="side-nav" id="mobile-demo">
             <a class='dropdown-button' href='#' data-activates='dropdown3'><li>
               <span>¿QUIÉNES SOMOS?</span>
             </li></a>
             <ul id='dropdown3' class='dropdown-content'>
-              <li class="nomargin"><a href="que-es.php"><span>¿Qué es Legal Nest?</span></a></li>
-              <li class="nomargin"><a href="legal-nest.php"><span>¿Porqué Legal Nest</span></a></li>
+              <li class="nomargin"><a href="que-es.php"><span>¿Qué es LegalNest?</span></a></li>
+              <li class="nomargin"><a href="legal-nest.php"><span>¿Porqué LegalNest</span></a></li>
               <li class="nomargin"><a href="que-no-somos.php"><span>¿Qué no somos?</span></a></li>
               <li class="nomargin"><a href="quienes-somos.php"><span>Nuestro equipo</span></a></li>
               <li class="nomargin"><a href="testimoniales.php"><span>Testimoniales</span></a></li>
@@ -65,8 +65,8 @@
             <span>¿QUIÉNES SOMOS?</span>
           </li></a>
           <ul id='dropdown1' class='dropdown-content'>
-            <li class="nomargin"><a href="que-es.php"><span>¿Qué es Legal Nest?</span></a></li>
-            <li class="nomargin"><a href="legal-nest.php"><span>¿Porqué Legal Nest</span></a></li>
+            <li class="nomargin"><a href="que-es.php"><span>¿Qué es LegalNest?</span></a></li>
+            <li class="nomargin"><a href="legal-nest.php"><span>¿Porqué LegalNest</span></a></li>
             <li class="nomargin"><a href="que-no-somos.php"><span>¿Qué no somos?</span></a></li>
             <li class="nomargin"><a href="quienes-somos.php"><span>Nuestro equipo</span></a></li>
             <li class="nomargin"><a href="testimoniales.php"><span>Testimoniales</span></a></li>

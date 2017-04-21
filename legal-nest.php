@@ -22,7 +22,7 @@
           ¿Por qué
         </p>
         <p class="nomargin">
-          <strong>Legla Nest?</strong>
+          <strong>LeglaNest?</strong>
         </p>
       </div>
       <div class="col s10 offset-l1 content-slide">
