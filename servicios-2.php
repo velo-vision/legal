@@ -72,7 +72,7 @@
                 <p><strong>aviso comercial</strong></p>
                 <img src="images/servicios/comercial.png" title="Aviso Comercial" alt="Legal Nest">
                 <p>
-                  Estudiamos y llevamos a cabo el registro de tu “slogan”.
+                  Estudiamos y llevamos a cabo el registro de tu “slogan”.
                 </p>
               </div>
             </div>

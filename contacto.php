@@ -39,12 +39,12 @@
         </form>
         <div class="col l12 m12 s12 iconos-mapa">
           <ul>
-            <li><i class="fa fa-envelope" aria-hidden="true"></i></li>
-            <li><i class="fa fa-map-marker" aria-hidden="true"></i></li>
-            <li><i class="fa fa-phone" aria-hidden="true"></i></li>
-            <li><i class="fa fa-facebook" aria-hidden="true"></i></li>
-            <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
-            <li><i class="fa fa-linkedin" aria-hidden="true"></i></li>
+            <li><a href=""><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+            <li><a href=""><i class="fa fa-map-marker" aria-hidden="true"></i></a></li>
+            <li><a href=""><i class="fa fa-phone" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.facebook.com/LegalNest/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="https://twitter.com/LegalNest"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.linkedin.com/company-beta/16257210/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
           </ul>
         </div>
         </div>
