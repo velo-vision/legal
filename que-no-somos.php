@@ -24,7 +24,7 @@
         </div>
         <div class="col l3 m6 s12 top-somos top-somos">
           <div class="col l7 offset-l2 m8 offset-m2 s8 offset-s2">
-            <img width="100%" src="images/recursos/abogados.png" title="Firma tradicional de abogados" alt="Legal Nest">
+            <img width="100%" src="images/recursos/abogados.png" title="Firma tradicional de abogados" alt="LegalNest">
           </div>
         </div>
         <div class="col l4 m6 s12 que-es2 top-somos">
@@ -87,7 +87,7 @@
         </div>
         <div class="col l2 m4 s8 offset-s2 hvr-float-shadow top-somos top-small">
           <a href="que-no-somos-5.php" class="animsition-link">
-            <img src="images/recursos/esquema.png" title="Esquema Piramidal" alt="Legal Nest">
+            <img src="images/recursos/esquema.png" title="Esquema Piramidal" alt="LegalNest">
             <p class="nomargin">
               Adiós al
             </p>

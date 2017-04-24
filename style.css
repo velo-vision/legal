@@ -1,4 +1,3 @@
-
 /*HELPERS*/
 .nomargin{
   margin: 0 !important;
@@ -1858,4 +1857,10 @@ padding: 10px 0 !important;
   .cuadro-2{
     margin-top: 30px;
   }
+}
+
+
+/*EST*/
+.logo-net{
+  width: 25%;
 }

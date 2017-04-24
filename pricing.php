@@ -35,7 +35,7 @@
         </div>
       </div>
       <div class="col l6 s12 pc-pricing">
-        <img src="images/recursos/pricing.png" title="Laptop Pricing" alt="Legal Lest">
+        <img src="images/recursos/pricing.png" title="Laptop Pricing" alt="LegalLest">
       </div>
     </div>
   </div>

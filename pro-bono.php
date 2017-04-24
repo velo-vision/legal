@@ -28,7 +28,7 @@
       <div class="col l12 s12  mano-pro-bono nomargin">
         <img src="images/recursos/mano.png" title="Pro bono" alt="Legal Nest">
       </div>
-      <div class="col l12 s12 iconos-bono center">
+      <div class="col l12 s12 iconos-bono center" style="display: none;">
         <div class="col l2 offset-l1 s2 offset-s1 bimbo">
           <img src="images/recursos/velo.png" title="Velosoft" alt="Legal Nest">
         </div>
