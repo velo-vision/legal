@@ -24,11 +24,11 @@
         </div>
         <div class="col l12 s12 que-es2 top-50">
           <p>
-            La transparencia y prácticas de cobro sencillas, son parte de la esencia de nuestro negocio, cobrar nuestros servicios por hora no nos
-            hace sentido, por lo mismo, siempre discutimos los costos por adelantado y detalladamente. Entendemos que estar revisando el reloj constantemente
-            se interpone a una relación de confianza y colaboración, creemos que para ser abogados efectivos hay que mantener abiertas las líneas de comunicación
-            en todo momento, por lo mismo, contestamos preguntas breves, respondemos correos y mensajes sin cargos adicionales, siempre estamos disponibles para
-            juntarnos en nuestras oficinas o en el lugar que te convenga. LegalNest ofrece planes de pago y cotizaciones flexibles que se adapten a las
+            La <strong>transparencia y prácticas de cobro sencillas,</strong> son parte de la esencia de nuestro negocio, <strong>cobrar nuestros servicios por hora no nos
+            hace sentido,</strong> por lo mismo, siempre discutimos los costos <strong>por adelantado y detalladamente.</strong> Entendemos que estar revisando el reloj constantemente
+            se interpone a una relación de confianza y colaboración, creemos que para ser abogados efectivos hay que <strong>mantener abiertas las líneas de comunicación</strong>
+            en todo momento, por lo mismo, contestamos preguntas breves, respondemos correos y mensajes sin cargos adicionales, <strong>siempre estamos disponibles</strong> para
+            juntarnos en nuestras oficinas o en el lugar que te convenga. LegalNest ofrece planes de <strong>pago y cotizaciones flexibles</strong> que se adapten a las
             necesidades específicas de cada cliente, incluyendo pago en línea, costos fijos para la elaboración de documentos, así como igualas mensuales
             acordadas por adelantado para proyectos y servicios de larga o indefinida duración.
           </p>

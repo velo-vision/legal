@@ -33,10 +33,10 @@
   </div>
   <div class="col l10 offset-l1 terminos-condiciones">
     <p>
-      <strong>¿Cómo puedo contactarlos</strong>
+      <strong>¿Cómo puedo contactarlos?</strong>
     </p>
     <p>
-      Dando click aquí. Puedes enviarnos un correo, llamarnos o buscarnos en cualquiera de nuestras redes sociales, siempre estamos disponibles.
+      Puedes enviarnos un correo, llamarnos o buscarnos en cualquiera de nuestras redes sociales, siempre estamos disponibles.
     </p>
     <p>
       <strong>¿Pedirles alguna propuesta tiene costo?</strong>
@@ -48,7 +48,7 @@
       <strong>¿Puedo buscarlos para cualquier tipo de problema legal?</strong>
     </p>
     <p>
-      Nuestra especialidad son los servicios que vez en nuestra página y que están enfocados en su mayoría a consultorías y servicios legales corporativos, de propiedad intelectual y del día a día de tu empresa,  sin embargo, contamos con una red de aliados comerciales que nos permiten proponerte soluciones relacionadas con muchas otras ramas de derecho.
+      Nuestra especialidad son los servicios que vez en nuestra página y que están enfocados en su mayoría a Startups y PYMEs, así como a consultorías y servicios legales corporativos, inmobiliarios, de propiedad intelectual, laborales y del día a día de tu empresa, sin embargo, contamos con una red de aliados comerciales que nos permiten proponerte soluciones relacionadas con muchas otras ramas de derecho.
     </p>
     <p>
       <strong>¿Por qué Legal Nest?</strong>
@@ -61,13 +61,15 @@
     </p>
     <p>
       Siempre seremos transparentes contigo, no esperes retrasos, cargos no contemplados ni obstáculos para contactarnos en cualquier momento, ese es nuestro compromiso.
-      dirigen por el camino correcto y respaldan en la toma de decisiones.
     </p>
     <p>
       <strong>¿Qué experiencia los respalda?</strong>
     </p>
     <p>
       Además de postgrados, certificados, congresos y demás actividades educativas, los fundadores de Legal Nest contamos con más de 10 años acumulados de experiencia trabajando en distintos ámbitos del derecho, incluyendo servicios de consultoría, despachos legales nacionales e internacionales, empresas internacionales “Fortune 500”, notarías públicas y servicios de freelance a pequeñas y medianas empresas.
+    </p>
+    <p>
+      De igual forma tenemos equipo de aliados estratégicos tanto abogados, fiscalistas, contadores,  como de otras profesiones que complementan nuestra experiencia de manera perfecta.
     </p>
     <p>
       Por último, nos asesoramos de un grupo externo de consultores expertos constituido por profesionales que cuentan con una amplia y reconocida trayectoria, quienes nos dirigen por el camino correcto y respaldan en la toma de decisiones.

@@ -56,10 +56,11 @@
         <div class="col l3 m8 offset-m2 s12">
           <div class="col l12 m12 s12 que-es2">
             <p class="nomargin">
-              En LegalNest en lugar de establecer una jerarquía sobre las personas, <strong>tenemos un equipo multidinámico
-              en el que se fomenta el liderazgo, ofrecemos calidad de trabajo y el atractivo de nuestra cultura
-              abierta,</strong> lo que genera que las personas que trabajan con nosotros encuentre un ambiente relajado y
-              funcional, <strong>esto se traduce en mejor calidad de trabajo para nuestros clientes.</strong>
+              En LegalNest en lugar de establecer una jerarquía sobre las personas, tenemos
+              un <strong>equipo multidinámico</strong> en el que se fomenta el liderazgo, ofrecemos calidad de
+              trabajo y el atractivo de nuestra <strong>cultura abierta.</strong> Esto genera que las personas
+              que trabajan con nosotros encuentren un ambiente relajado y funcional, y se
+              traduce en <strong>mejor calidad de trabajo para nuestros clientes.</strong>
             </p>
           </div>
           <div class="col l12 m12 s12 center mobile">

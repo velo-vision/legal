@@ -61,9 +61,9 @@
         <div class="col l3 m8 offset-m2 s12">
           <div class="col l12 que-es2">
             <p class="nomargin">
-              En LegalNest buscamos generar una relación estable y de confianza con nuestros clientes para
+              En LegalNest buscamos generar una <strong>relación estable y de confianza</strong> con nuestros clientes para
               poder apoyarlos en cualquier momento, la intención es convertirnos en uno más de tu empresa
-              y así poderte <strong>ayudar a prevenir y solucionar cualquier problema que tengas.</strong>
+              y así poderte ayudar a <strong>prevenir y solucionar</strong> cualquier problema que tengas.
             </p>
           </div>
           <div class="col l12 s12 center top-30 mobile">

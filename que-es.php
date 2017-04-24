@@ -20,10 +20,10 @@
         </div>
         <div class="col l10 offset-l1 que-es2 top-50">
           <p>
-            LegalNest es una iniciativa que nace al darnos cuenta de la desconfianza y desinterés que tienen las personas en los servicios legales
-            en México, mismos que suelen ser, un proceso complejo, burocrático y tedioso. Al iniciar una empresa o desarrollando nuevos proyectos,
-            dejamos de lado la búsqueda de una consultoría legal, principalmente porque no conocemos
-            el nivel de importancia que representan para el futuro y porque el contacto con despachos tradicionales suele ser complejo y costoso.
+            LegalNest es una <strong>iniciativa</strong> que nace al darnos cuenta de la <strong>desconfianza y desinterés</strong> que tienen las personas en los <b>servicios legales</b>
+            en México, mismos que suelen ser, un proceso complejo, burocrático y tedioso. <strong>Al iniciar una empresa o desarrollando nuevos proyectos,</strong>
+            dejamos de lado la búsqueda de una consultoría legal, principalmente porque <strong>no conocemos
+            el nivel de importancia que representan para el futuro y porque el contacto con despachos tradicionales suele ser complejo y costoso.</strong>
           </p>
         </div>
       </div>

@@ -29,9 +29,9 @@
         </div>
         <div class="col l4 m6 s12 que-es2 top-somos">
           <p>
-            Cuando surge algo diferente las reglas cambian. Convencidos de que el esquema legal actual está desgastado, creamos <strong>LegalNest</strong>,
-            un nuevo proyecto en el que queremos que nos identifiques por lo somos, pero
-            también queremos que conozcas lo que nos hace ser diferentes explicándote <strong>lo que NO somos.</strong>
+            Cuando surge algo diferente las reglas cambian. Convencidos de que <strong>el esquema legal actual está desgastado,</strong> creamos <strong>LegalNest</strong>,
+            un nuevo proyecto en el que queremos que nos identifiques por lo que somos, pero
+            también <strong>queremos que conozcas lo que nos hace ser diferentes</strong> explicándote <strong>lo que No somos.</strong>
           </p>
         </div>
       </div>

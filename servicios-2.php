@@ -27,7 +27,7 @@
           <div class="col l4 m4 s12 servicios center">
             <div class="col l10 offset-l1 m12 s12">
               <div class="col l12 m12 s12">
-                <p><strong>pagarés</strong></p>
+                <p><strong>Garantías</strong></p>
                 <img src="images/servicios/pagares.png" title="Pagarés" alt="Legal Nest">
                 <p>
                   Creamos un documento que te

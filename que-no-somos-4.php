@@ -56,9 +56,9 @@
         <div class="col l3 m8 offset-m2 s12">
           <div class="col l12 m12 s12 que-es2">
             <p class="nomargin">
-              En LegalNest buscamos estudiar tu negocio de tal manera que podamos <strong>proponerte soluciones,
-              esquemas, análisis y capacitaciones enfocadas al crecimiento de tu negocio</strong> explicando de
-              manera fácil los riesgos y beneficios de las situaciones que se te presenten.
+              En LegalNest buscamos estudiar tu negocio de tal manera que podamos proponerte soluciones,
+              esquemas, análisis y capacitaciones enfocadas al <strong>crecimiento de tu negocio</strong> explicando de
+              manera fácil los <strong>riesgos y beneficios</strong> de las situaciones que se te presenten.
             </p>
           </div>
           <div class="col l12 m12 s12 center mobile">

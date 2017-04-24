@@ -42,9 +42,9 @@
                 <p><strong>contratos</strong></p>
                 <img src="images/servicios/contratos.png" title="Contratos" alt="Legal Nest">
                 <p>
-                  Dependiendo de tus necesidades
-                  generamos contratos que puedas
-                  usar en el día a día de tu empresa.
+                  Dependiendo de tus necesidades generamos
+                  y/o negociamos contratos que puedas usar
+                  en el día a día de tu empresa
                 </p>
               </div>
             </div>
@@ -91,7 +91,7 @@
               <div class="col l12 m12 s12">
                 <p><strong>in-house counsel</strong></p>
                 <img src="images/servicios/in-house.png" title="In-House Counsel" alt="Legal Nest">
-                <p>Siempre estamos disponibles para resolver cualquier duda que tengas.</p>
+                <p>Tu abogado de cabecera</p>
               </div>
             </div>
           </div>

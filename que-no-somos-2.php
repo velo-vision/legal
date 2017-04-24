@@ -68,8 +68,8 @@
         <div class="col l3 m8 offset-m2 s12">
           <div class="col l12 m12 que-es2">
             <p class="nomargin">
-              En LegalNest buscamos siempre tener una imagen completa de tu negocio así como tus metas a corto,
-              mediano y largo plazo para poder <strong>proponer estrategias y/o soluciones alineadas a tus intereses.</strong>
+              En LegalNest buscamos siempre tener una <strong>imagen completa de tu negocio</strong> así como tus metas a corto,
+              mediano y largo plazo para poder proponer estrategias y/o soluciones <strong>alineadas a tus intereses.</strong>
             </p>
           </div>
           <div class="col l12 m12 center mobile">

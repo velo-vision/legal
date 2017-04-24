@@ -70,12 +70,10 @@
           <div class="col l4 m4 s12 servicios center">
             <div class="col l10 offset-l1 m12 s12">
               <div class="col l12 m12 s12">
-                <p><strong>aviso de privacidad</strong></p>
+                <p><strong>Aviso de Privacidad/Términos y Condiciones</strong></p>
                 <img src="images/servicios/aviso.png" title="Aviso de Privacidad" alt="Legal Nest">
                 <p>
-                  Legales o no, preparamos la
-                  traducció
-                  n que necesites.
+                  Para protegerte y proteger a tus clientes
                 </p>
               </div>
             </div>
@@ -86,8 +84,7 @@
                 <p><strong>apertura libros</strong></p>
                 <img src="images/servicios/libros.png" title="Apertura Libros" alt="Legal Nest">
                 <p>
-                  Administración virtual y
-                  acceso de tus documentos.
+                  Este es un requisito que viene en la Ley, te ayudamos a estar siempre en orden.
                 </p>
               </div>
             </div>
