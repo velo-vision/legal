@@ -213,7 +213,8 @@ $(document).ready(function() {
         size: new google.maps.Size(150,50)
       });*/
 
-      function setMarkers(locations) {
+      function setMarkers(locations)
+      {
         for (var i = 0; i < locations.length; i++) {
           var location = locations[i];
           var myLatLng = new google.maps.LatLng(location[1], location[2]);
@@ -231,6 +232,7 @@ $(document).ready(function() {
           map.setCenter(marker.getPosition());
           infowindow.setContent(this.html);
           infowindow.open(map, this);
+          infoWindow.setContent('Aqui va la calle.');
           });
           gmarkers.push(marker);
         }
