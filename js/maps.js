@@ -209,12 +209,11 @@ $(document).ready(function() {
         ['Legal Nest', 19.403840, -99.241644]
        ];
 
-      /*infowindow = new google.maps.InfoWindow({
-        size: new google.maps.Size(150,50)
-      });*/
+      // infowindow = new google.maps.InfoWindow({
+      //   size: new google.maps.Size(150,50)
+      // });
 
-      function setMarkers(locations)
-      {
+      function setMarkers(locations) {
         for (var i = 0; i < locations.length; i++) {
           var location = locations[i];
           var myLatLng = new google.maps.LatLng(location[1], location[2]);
@@ -223,7 +222,7 @@ $(document).ready(function() {
               animation: google.maps.Animation.DROP,
               map: map,
               title: location[0],
-              icon: "images/recursos/map-pin.png",
+              //icon: "images/recursos/map-pin.png",
               title: 'Legal Nest'
           });
 
@@ -237,6 +236,7 @@ $(document).ready(function() {
           gmarkers.push(marker);
         }
       }
+
 
       // Add the markers
       setMarkers(locations);

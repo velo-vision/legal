@@ -3,6 +3,9 @@
   margin: 0 !important;
   padding: 0 !important;
 }
+.nopadding{
+  padding: 0px !important;
+}
 .top-100{
   margin-top: 100px !important;
 }
@@ -33,6 +36,88 @@
   align-items: center;
   height: auto;
 }
+/*nuestro equipo*/
+.margin-icon{
+  margin-top: 20px;
+}
+.info-margin p{
+  margin: 8px 0 !important;
+}
+.movi-izq{
+  margin-left: -25px !important;
+}
+.spacing{
+  margin-bottom: 37px;
+}
+.bg-quienes1{
+  /*height: 90vh;*/
+  padding: 0px !important;
+}
+.nuestro{
+  color:#a8a89f !important;
+  font-family: 'Roboto', sans-serif;
+  font-size: 4.5em !important;
+  font-weight: 700;
+  text-align: center;
+  text-transform: capitalize;
+}
+.nuestro span{
+  color:#000 !important;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em !important;
+  font-weight: 700;
+  text-align: center;
+  text-transform: capitalize;
+}
+.equipo-nombre p{
+  color:#000 !important;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em !important;
+  font-weight: 700;
+  text-align: center;
+}
+.equipo-cargo p{
+  color:#000 !important;
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 1.5em !important;
+  font-weight: 300 !important;
+  margin-top: 20px !important;
+  text-align: center;
+}
+.testimonio1 p{
+  color: #5d5d5d;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em !important;
+  font-weight: 300 !important;
+  line-height:1.7 !important;
+  text-align: justify;
+  max-width: 95%;
+}
+.ver-perfil p{
+  color:#000 !important;
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: bold !important;
+}
+.equipo-icon i{
+  color:#000;
+  font-size:18px;
+}
+.avatar img{
+    height: 350px;
+    width: 350px !important;
+    border: 2px solid;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.borde{
+  border-bottom: 1px solid #d4d4cf;
+  margin: 30px 0 0 -27px;
+}
+/*Fin nuestro equipo*/
 .line-none{
   line-height: 0;
 }
@@ -564,6 +649,9 @@ padding: 10px 0 !important;
 .bg-testimoniales{
   background: url(images/recursos/bg-testimoniales.png) no-repeat center center;
 }
+.bg-equipo{
+  background: url(images/recursos/equipo.png) no-repeat center center;
+}
 .testimoniales p{
   color:#a8a89f !important;
   font-family: 'Roboto', sans-serif;
@@ -1061,6 +1149,10 @@ padding: 10px 0 !important;
   .imagen-somos img{
     width: 100%;
   }
+  .avatar img {
+    height: 300px !important;
+    width: 300px !important;
+}
   .menu-legal ul li {
     display: inline-block;
     padding: .5em 1.7em;
@@ -1342,6 +1434,10 @@ padding: 10px 0 !important;
   .img-testimonial img{
     width:70% !important;
   }
+  .avatar img {
+    height: 250px !important;
+    width: 250px !important;
+}
   .testimonio strong {
     font-size: 1.5em;
   }
@@ -1379,9 +1475,15 @@ padding: 10px 0 !important;
   .content-pro{
     padding: 3.5% 0 !important;
   }
-  .center .slick-center p {
+  /*.center .slick-center p {
     font-size: 1em !important;
-  }
+  }*/
+  .equipo-nombre p {
+    font-size: 1.5em !important;
+}
+.equipo-cargo p {
+  font-size: 1.5em !important;
+}
   .paquetes {
     font-size: .8em;
   }
@@ -1558,6 +1660,10 @@ padding: 10px 0 !important;
   .img-testimonial img{
     width:70% !important;
   }
+  .avatar img {
+    height: 220px !important;
+    width: 220px !important;
+}
   .testimonio strong {
     font-size: 1.5em;
   }
@@ -1606,6 +1712,10 @@ padding: 10px 0 !important;
   .img-testimonial img{
     width:70% !important;
   }
+  .avatar img {
+    height: 200px !important;
+    width: 200px !important;
+}
   .testimonio strong {
     font-size: 1.5em;
   }
@@ -1862,6 +1972,28 @@ padding: 10px 0 !important;
   .cuadro-2{
     margin-top: 30px;
   }
+  .avatar img {
+    height: 250px !important;
+    width: 250px !important;
+}
+.movi-izq{
+  margin: 0px !important;
+}
+.nuestro {
+    font-size: 3em !important;
+}
+.nuestro1 p{
+    margin: 10px 0 !important;
+}
+.spacing {
+     margin-bottom: 0px;
+}
+.slick-slider {
+    margin: 0px;
+}
+.borde {
+    margin: 0px;
+}
 }
 
 
