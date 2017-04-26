@@ -545,7 +545,15 @@ padding: 10px 0 !important;
 /*QUIENES SOMOS*/
 .bg-quienes{
   /*height: 90vh;*/
+  padding: 4% 0 !important;
+}
+.bg-quienes1{
+  /*height: 90vh;*/
   padding: 10% 0 !important;
+}
+.bg-quienes2{
+  /*height: 90vh;*/
+  padding: 0px !important;
 }
 .quienes-1{
   color:#a8a89f;
@@ -833,7 +841,7 @@ padding: 10px 0 !important;
 .texto-mapa {
   background-color: #fff;
   width: 330px;
-  height: 120px;
+  height: 135px;
   position: absolute;
   z-index: 9;
   margin: 20px;
