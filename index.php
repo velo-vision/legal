@@ -130,7 +130,7 @@ text-decoration: none;
 <script type="text/javascript" src="js/particulas.js"></script>
 
 <script>
-  var tex =["INNOVACIÓN" , "ATENCIÓN" , "CONFIANZA" , "COMUNICACIÓN" , "TRANSPARENCIA"];
+  var tex =["INNOVACIÓN" , "ATENCIÓN" , "CONFIANZA" , "COMUNICACIÓN" , "TRANSPARENCIA" , "INNOVACIÓN"];
   var texindex=1;
   setInterval(function(){
     if(texindex>=tex.length){
