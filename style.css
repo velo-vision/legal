@@ -37,6 +37,18 @@
   align-items: center;
   height: auto;
 }
+.dropdown-content {
+    background-color: transparent;
+    margin: 0;
+    display: none;
+    min-width: 185px !important;
+    max-height: 650px;
+    overflow-y: auto;
+    opacity: 0;
+    position: absolute;
+    z-index: 999;
+    will-change: width, height;
+}
 /*nuestro equipo*/
 .margin-icon{
   margin-top: 20px;
@@ -53,6 +65,12 @@
 .bg-quienes1{
   /*height: 90vh;*/
   padding: 0px !important;
+}
+.footer a p{
+  text-align: center;
+}
+.footer-2 a p{
+  text-align: center;
 }
 .nuestro{
   color:#a8a89f !important;
@@ -428,6 +446,20 @@ a {
   padding: .5em 3.5em;
 }
 
+.footer-2 {
+    background: #2e3341;
+    color: #a8a89f;
+    font-family: 'Montserrat', sans-serif;
+    font-size: .8em;
+    font-weight: 600;
+    -webkit-box-shadow: -1px -5px 5px 0px rgba(40,44,57,1);
+    -moz-box-shadow: -1px -5px 5px 0px rgba(40,44,57,1);
+    box-shadow: -1px -5px 5px 0px rgba(40,44,57,1);
+    z-index: 10;
+    position: relative;
+    padding: 10px 0 !important;
+}
+
 .menu-legal ul li span{
   color:#a8a89f;
   border-bottom: 2px solid transparent;
@@ -554,6 +586,14 @@ padding: 10px 0 !important;
 .bg-quienes2{
   /*height: 90vh;*/
   padding: 0px !important;
+}
+.bg-quienes3{
+  /*height: 90vh;*/
+  padding: 6% 0 !important;
+}
+.bg-quienes4{
+  /*height: 90vh;*/
+  padding: 11% 0 !important;
 }
 .quienes-1{
   color:#a8a89f;
@@ -1178,6 +1218,16 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:1200px) and (max-width:1400px){
+  .bg-quienes4{
+    /*height: 90vh;*/
+    padding: 17% 0 !important;
+  }
+  .content-pro {
+    padding: 6.3% 0 !important;
+}
+  .content-startup {
+    padding: 12.5% 0 !important;
+}
   .bimbo img{
     width: 100%;
   }
@@ -1324,6 +1374,16 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:992px) and (max-width:1200px){
+  .bg-quienes4{
+    /*height: 90vh;*/
+    padding: 20% 0 !important;
+  }
+  .content-startup {
+    padding: 17.3% 0 !important;
+}
+  .bg-quienes1 {
+    padding: 17.6% 0 !important;
+}
   .cuadro-1 {
     font-size: .8em;
   }
@@ -1409,7 +1469,11 @@ padding: 10px 0 !important;
   }
   .bg-quienes {
     height: auto;
-    padding: 50px 0 !important;
+    padding: 165px 0 !important;
+  }
+  .bg-quienes3{
+    /*height: 90vh;*/
+    padding: 195px 0 !important;
   }
   .mano-pro-bono img{
     margin: 50px 0 !important;
@@ -1517,7 +1581,7 @@ padding: 10px 0 !important;
   }
   /*PROBONO*/
   .content-pro{
-    padding: 3.5% 0 !important;
+    padding: 4.5% 0 !important;
   }
   /*.center .slick-center p {
     font-size: 1em !important;
@@ -1556,6 +1620,10 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:768px) and (max-width:992px){
+  .bg-quienes4{
+    /*height: 90vh;*/
+    padding: 21% 0 !important;
+  }
   .hvr-bob img{
     width: 50%;
   }
@@ -1604,6 +1672,10 @@ padding: 10px 0 !important;
   .bg-quienes{
     height: auto;
     padding: 40px 0 !important;
+  }
+  .bg-quienes3{
+    height: auto;
+    padding: 60px 0 !important;
   }
   .imagen-somos img{
     width: 100%;
@@ -1691,6 +1763,9 @@ padding: 10px 0 !important;
   .valign-wrapper {
     height: auto;
   }
+  .content-pro{
+    padding: 16.5% 0 !important;
+  }
   .que-es {
     font-size: 3.5em;
     text-align: center;
@@ -1750,6 +1825,21 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:600px) and (max-width:768px){
+  .bg-quienes3{
+    height: auto;
+    padding: 180px 0 !important;
+  }
+  .bg-quienes{
+    height: auto;
+    padding: 160px 0 !important;
+  }
+  .bg-quienes4{
+    /*height: 90vh;*/
+    padding: 28% 0 !important;
+  }
+  .content-pro{
+    padding: 27% 0 !important;
+  }
   .img-testimonial{
     text-align: center;
   }
@@ -1841,10 +1931,6 @@ padding: 10px 0 !important;
   }
   .pro-bono b {
     font-size: 1.3em;
-  }
-  .bg-quienes{
-    height: auto;
-    padding: 40px 0 !important;
   }
   .imagen-somos img{
     width: 80%;
@@ -1972,9 +2058,6 @@ padding: 10px 0 !important;
     margin-top: 10%;
   }
   /*PROBONO*/
-  .content-pro{
-    padding: 15% 0 !important;
-  }
   .iconos-mapa ul li {
     font-size: 1em;
     width: 15%;
@@ -2004,9 +2087,33 @@ padding: 10px 0 !important;
     margin-top: 20px;
   }
 }
-
+@media only screen and (min-width:1200px) and (max-width:1400px){
+  .bg-quienes{
+    /*height: 90vh;*/
+    padding: 7% 0 !important;
+  }
+  .bg-quienes3{
+    /*height: 90vh;*/
+    padding: 9% 0 !important;
+  }
+}
 
 @media only screen and (min-width:200px) and (max-width:600px){
+  .bg-quienes3{
+    height: auto;
+    padding: 50px 0 150px 0 !important;
+  }
+  .bg-quienes{
+    height: auto;
+    padding: 30px 0 150px 0 !important;
+  }
+  .bg-quienes4{
+    /*height: 90vh;*/
+    padding: 29.7% 0 !important;
+  }
+  .content-pro{
+    padding: 36% 0 !important;
+  }
   .top-small{
     margin-top: 50px;
   }

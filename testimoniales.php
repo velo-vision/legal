@@ -37,7 +37,7 @@
   data-animsition-in-duration="1000"
   data-animsition-out-class="fade-out-up-sm">
 
-<div class="row nomargin bg-quienes">
+<div class="row nomargin bg-quienes4">
   <div class="valign-wrapper">
     <div class="col l12 m12 s12 valign">
       <div class="col l10 offset-l1 m12 s12">

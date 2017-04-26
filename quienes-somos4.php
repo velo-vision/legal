@@ -9,7 +9,7 @@
   data-animsition-in-duration="1000"
   data-animsition-out-class="fade-out-up-sm">
 
-<div class="row nomargin bg-quienes">
+<div class="row nomargin bg-quienes3">
   <div class="valign-wrapper">
     <div class="col l12 s12 valign">
       <div class="col l6 m6 offset-m3 s12 center imagen-somos">

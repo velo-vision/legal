@@ -38,14 +38,12 @@
               <li class="nomargin"><a href="testimoniales.php"><span>Testimoniales</span></a></li>
             </ul>
             <a href="pricing.php"><li><span>PRICING POLICY</span></li></a>
-            <a class='dropdown-button' href='#!' data-activates='dropdown4'><li>
-              <span>PAQUETES</span>
-            </li></a>
-            <ul id='dropdown4' class='dropdown-content'>
+            <a href='startup-home.php'><li><span>PAQUETES</span></li></a>
+            <!-- <ul id='dropdown4' class='dropdown-content'>
               <li class="nomargin"><a href="startup-home.php"><span>Startup</span></a></li>
               <li class="nomargin"><a href="pyme-home.php"><span>Pyme</span></a></li>
               <li class="nomargin"><a href="home-empresa.php"><span>Consolidada</span></a></li>
-            </ul>
+            </ul> -->
             <a href="servicios.php"><li><span>SERVICIOS</span></li></a>
             <a href="contacto.php"><li><span>CONTACTO</span></li></a>
             <a href="pro-bono.php"><li><span>FUNDACIONES</span></li></a>>
@@ -73,14 +71,12 @@
             <li class="nomargin"><a href="testimoniales.php"><span>Testimoniales</span></a></li>
           </ul>
           <a href="pricing.php"><li><span>PRICING POLICY</span></li></a>
-          <a class='dropdown-button' href='#!' data-activates='dropdown2'><li>
-            <span>PAQUETES</span>
-          </li></a>
-          <ul id='dropdown2' class='dropdown-content'>
+          <a href='startup-home.php'><li><span>PAQUETES</span></li></a>
+          <!-- <ul id='dropdown2' class='dropdown-content'>
             <li class="nomargin"><a href="startup-home.php"><span>Startup</span></a></li>
             <li class="nomargin"><a href="pyme-home.php"><span>Pyme</span></a></li>
             <li class="nomargin"><a href="home-empresa.php"><span>Consolidada</span></a></li>
-          </ul>
+          </ul> -->
           <a href="servicios.php"><li><span>SERVICIOS</span></li></a>
           <a href="contacto.php"><li><span>CONTACTO</span></li></a>
           <a href="pro-bono.php"><li><span>FUNDACIONES</span></li></a>

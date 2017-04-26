@@ -29,16 +29,16 @@
         <div class="slider center">
           <div>
             <h3>
-              <img style="width:100px!important;margin:20px auto;" src="images/legal/1.png" alt="">
+              <img style="width:100px!important;margin:20px auto;" src="images/legal/6.png" alt="">
             </h3>
               <p class="nomargin top-30">
-                El 75% de las empresas nuevas
+                Nuestros precios están al menos
               </p>
               <p class="nomargin">
-                cierran al segundo año
+                un 30% por debajo de los
               </p>
               <p class="nomargin">
-                 de operación.
+                 precios del mercado.
               </p>
           </div>
           <div>
@@ -74,16 +74,19 @@
               <img style="width:100px!important;margin:20px auto;" src="images/legal/4.png" alt="">
             </h3>
               <p class="nomargin top-30">
-                Usamos herramientas y tecnología
+                Usamos herramientas y
               </p>
               <p class="nomargin">
-                que nos permiten mantener una línea
+                tecnología que nos permiten
               </p>
               <p class="nomargin">
-                 de comunicación directa y constante
+                 mantener una línea de
               </p>
               <p class="nomargin">
-                 contigo.
+                 comunicación directa y
+              </p>
+              <p class="nomargin">
+                constante contigo.
               </p>
           </div>
           <div>
@@ -102,16 +105,16 @@
           </div>
           <div>
             <h3>
-              <img style="width:100px!important;margin:20px auto;" src="images/legal/6.png" alt="">
+              <img style="width:100px!important;margin:20px auto;" src="images/legal/1.png" alt="">
             </h3>
               <p class="nomargin top-30">
-                Nuestros precios están al menos
+                El 75% de las empresas nuevas
               </p>
               <p class="nomargin">
-                un 30% por debajo de los
+                cierran al segundo año
               </p>
               <p class="nomargin">
-                 precios del mercado.
+                 de operación.
               </p>
           </div>
         </div>

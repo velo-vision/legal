@@ -42,7 +42,7 @@
           <div class="col l4 m4 s12 startup-paquete">
             <div class="col l3 s12">
               <div class="col l12 s12 center startup-img">
-                <img src="images/paquetes/Marca.png" title="Marca" alt="Legal Nest">
+                <img src="images/paquetes/marca.png" title="Marca" alt="Legal Nest">
               </div>
             </div>
             <div class="col l9 s12">
