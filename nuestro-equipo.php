@@ -76,7 +76,7 @@
               <div class="borde"></div>
               <div class="col l12 m12 s12 nopadding margin-icon movi-izq">
                 <div class="col l1 m1 s1 equipo-icon nopadding info-margin">
-                  <p><i class="fa fa-envelope" aria-hidden="true"></i></p>
+                  <p><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a></p>
                 </div>
                 <div class="col l11 m11 s11 info-margin">
                   <p>javier@legalnest.mx</p>
@@ -92,10 +92,10 @@
               </div>
               <div class="col l12 m12 s12 nopadding movi-izq">
                 <div class="col l1 m1 s1 equipo-icon nopadding info-margin">
-                  <p><i class="fa fa-linkedin" aria-hidden="true"></i></p>
+                  <p><a href="https://www.linkedin.com/in/javier-arnau-01a2a964/"><i class="fa fa-envelope" aria-hidden="true"></i></a></p>
                 </div>
                 <div class="col l11 m11 s11 ver-perfil info-margin">
-                  <p>Ver perfil</p>
+                  <p><a href="https://www.linkedin.com/in/javier-arnau-01a2a964/">Ver perfil</a></p>
                 </div>
               </div>
             </div>
@@ -134,7 +134,7 @@
               <div class="borde"></div>
               <div class="col l12 m12 s12 nopadding margin-icon movi-izq">
                 <div class="col l1 m1 s1 equipo-icon nopadding info-margin">
-                  <p><i class="fa fa-envelope" aria-hidden="true"></i></p>
+                  <p><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a></p>
                 </div>
                 <div class="col l11 m11 s11 info-margin">
                   <p>carlos@legalnest.mx</p>
@@ -150,10 +150,10 @@
               </div>
               <div class="col l12 m12 s12 nopadding movi-izq">
                 <div class="col l1 m1 s1 equipo-icon nopadding info-margin">
-                  <p><i class="fa fa-linkedin" aria-hidden="true"></i></p>
+                  <p><a href="https://www.linkedin.com/in/carlos-karam-canavati-68831676/"><i class="fa fa-envelope" aria-hidden="true"></i></a></p>
                 </div>
                 <div class="col l11 m11 s11 ver-perfil info-margin">
-                  <p>Ver perfil</p>
+                  <p><a href="https://www.linkedin.com/in/carlos-karam-canavati-68831676/">Ver perfil</a></p>
                 </div>
               </div>
             </div>
@@ -205,10 +205,10 @@
               </div>
               <div class="col l12 m12 s12 nopadding movi-izq">
                 <div class="col l1 m1 s1 equipo-icon nopadding info-margin">
-                  <p><i class="fa fa-linkedin" aria-hidden="true"></i></p>
+                  <p><a href="https://www.linkedin.com/in/mar%C3%ADa-fernanda-diez-de-sollano-basila-34459a136/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></p>
                 </div>
                 <div class="col l11 m11 s11 ver-perfil info-margin">
-                  <p>Ver perfil</p>
+                  <p><a href="https://www.linkedin.com/in/mar%C3%ADa-fernanda-diez-de-sollano-basila-34459a136/">Ver perfil</a></p>
                 </div>
               </div>
             </div>
@@ -262,10 +262,10 @@
               </div>
               <div class="col l12 m12 s12 nopadding movi-izq">
                 <div class="col l1 m1 s1 equipo-icon nopadding info-margin">
-                  <p><i class="fa fa-linkedin" aria-hidden="true"></i></p>
+                  <p><a href="https://www.linkedin.com/in/horacio-arrieta-retamoza-86597925/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></p>
                 </div>
                 <div class="col l11 m11 s11 ver-perfil info-margin">
-                  <p>Ver perfil</p>
+                  <p><a href="https://www.linkedin.com/in/horacio-arrieta-retamoza-86597925/">Ver perfil</a></p>
                 </div>
               </div>
             </div>
@@ -291,7 +291,7 @@
 
 $('.center').slick({
 centerMode: true,
-autoplay:false,
+autoplay:true,
 centerPadding: '0px',
 slidesToShow: 1,
 responsive: [

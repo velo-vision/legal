@@ -23,7 +23,7 @@
      <div class="row nomargin hide-on-large-only">
        <nav>
          <div class="nav-wrapper">
-           <a href="index.php"><img width="130px;" src="images/recursos/logo.png" title="Logo header" alt="Legal Nest"></a>
+           <a href="quienes-somos.php"><img width="130px;" src="images/recursos/logo.png" title="Logo header" alt="Legal Nest"></a>
            <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
            <ul class="side-nav" id="mobile-demo">
              <a class='dropdown-button' href='#' data-activates='dropdown3'><li>

@@ -45,7 +45,7 @@
               </div>
             </div>
             <div class="col l3 m6 s12 center title-legal">
-              <p class="nomargin top-10">¿Legal Nest?</p>
+              <p class="nomargin top-10">¿LegalNest?</p>
             </div>
             <div class="col l1">
               <div class="col l12 ocultar-linea nomargin">

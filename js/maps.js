@@ -222,7 +222,7 @@ $(document).ready(function() {
               animation: google.maps.Animation.DROP,
               map: map,
               title: location[0],
-              //icon: "images/recursos/map-pin.png",
+              icon: "images/recursos/map-pin.png",
               title: 'Legal Nest'
           });
 

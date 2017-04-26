@@ -41,14 +41,27 @@
           <ul>
             <li><a href=""><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
             <li><a href=""><i class="fa fa-map-marker" aria-hidden="true"></i></a></li>
-            <li><a href=""><i class="fa fa-phone" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.facebook.com/LegalNest/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-            <li><a href="https://twitter.com/LegalNest"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.linkedin.com/company-beta/16257210/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+            <li><a href="mailto:contacto@legalnest.mx" target="_blank"><i class="fa fa-phone" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.facebook.com/LegalNest/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="https://twitter.com/LegalNest" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.linkedin.com/company-beta/16257210/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
           </ul>
         </div>
         </div>
-        <div class="col l12 m12 s12 nomargin top-50">
+        <div class="col l12 m12 s12 nomargin top-50" style="position:relative;">
+          <div class="texto-mapa">
+            <p>
+              Bosque de Duraznos No. 61 Piso 3
+              Bosques de las Lomas
+              Miguel Hidalgo CP 11700
+            </p>
+            <p style="text-align:left !important; color:#33b498 !important; font-weight:bold !important;">
+              Tel: 1234-5678
+            </p>
+            <p>
+              <a target="_blank" jstcache="46" href="https://www.google.com.mx/maps/place/Bosque+de+Duraznos+61,+Bosque+de+las+Lomas,+11700+Ciudad+de+M%C3%A9xico,+CDMX/@19.4018887,-99.2457222,15z/data=!4m5!3m4!1s0x85d2017332e6f2e5:0x737ebf4034a7fd2b!8m2!3d19.4038418!4d-99.2416452?hl=es" jsaction="mouseup:placeCard.largerMap">Abrir Mapa Completo</a>
+            </p>
+          </div>
           <div class="mapa" id="mack-map"></div>
         </div>
       </div>

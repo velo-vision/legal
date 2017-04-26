@@ -22,7 +22,7 @@
           ¿Por qué
         </p>
         <p class="nomargin">
-          <strong>Legal Nest?</strong>
+          <strong>LegalNest?</strong>
         </p>
       </div>
       <div class="col s10 offset-l1 content-slide">
@@ -83,7 +83,7 @@
                  de comunicación directa y constante
               </p>
               <p class="nomargin">
-                 contigo <del>nuestros clientes.</del>
+                 contigo.
               </p>
           </div>
           <div>
