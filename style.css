@@ -10,6 +10,9 @@
 .top-100{
   margin-top: 100px !important;
 }
+.top1-100{
+  margin-top: 100px !important;
+}
 .top-50{
   margin-top: 50px !important;
 }
@@ -595,6 +598,9 @@ padding: 10px 0 !important;
   /*height: 90vh;*/
   padding: 11% 0 !important;
 }
+.bg-quienes7{
+  padding: 2% 0 !important;
+}
 .quienes-1{
   color:#a8a89f;
   font-family: 'Roboto', sans-serif;
@@ -1165,6 +1171,11 @@ padding: 10px 0 !important;
     background-color: #2e3341;
 }
 /*MEDIAS QUERYS*/
+@media only screen and (min-width:1560px) and (max-width:1700px){
+.bg-quienes7{
+  padding: 3.3% 0 !important;
+}
+}
 
 @media only screen and (min-width:1400px) and (max-width:1700px){
   .menu-legal ul li {
@@ -1218,6 +1229,9 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:1200px) and (max-width:1400px){
+  .bg-quienes7{
+    padding: 9.3% 0 !important;
+  }
   .bg-quienes4{
     /*height: 90vh;*/
     padding: 17% 0 !important;
@@ -1374,6 +1388,18 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:992px) and (max-width:1200px){
+  .testimonio1 p {
+      font-size: 30px !important;
+  }
+  .top1-100 {
+    margin-top: 30px !important;
+}
+.top-100 {
+  margin-top: 40px !important;
+}
+  .bg-quienes7{
+    padding: 12.9% 0 !important;
+  }
   .bg-quienes4{
     /*height: 90vh;*/
     padding: 20% 0 !important;
@@ -1620,6 +1646,18 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:768px) and (max-width:992px){
+  .testimonio1 p {
+    font-size: .9em !important;
+}
+  .bg-quienes7{
+    padding: 13.9% 0 !important;
+  }
+  .top1-100{
+    margin-top: 0px !important;
+  }
+  .bg-quienes7 {
+      padding: 0px 0 40px 0px !important;
+  }
   .bg-quienes4{
     /*height: 90vh;*/
     padding: 21% 0 !important;
@@ -1795,7 +1833,7 @@ padding: 10px 0 !important;
     max-width: 90%;
   }
   .slider{
-    margin-top: 100px !important;
+    margin-top: 0px !important;
   }
   /*SERVICIOS*/
   .prev {
@@ -1825,6 +1863,12 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:600px) and (max-width:768px){
+  .testimonio1 p {
+    font-size: 1.3em !important;
+}
+  .bg-quienes7{
+    padding: 10% 0 !important;
+  }
   .bg-quienes3{
     height: auto;
     padding: 180px 0 !important;
@@ -1881,6 +1925,9 @@ padding: 10px 0 !important;
 
 
 @media only screen and (min-width:200px) and (max-width:768px){
+  .top1-100 {
+    margin-top: 0px !important;
+}
   .center-middle{
     text-align: center !important;
   }
@@ -2087,7 +2134,28 @@ padding: 10px 0 !important;
     margin-top: 20px;
   }
 }
+@media only screen and (min-width:1399px) and (max-width:1560px){
+  .bg-quienes7{
+    padding: 6.3% 0 !important;
+  }
+  .top1-100 {
+    margin-top: 30px !important;
+}
+.top-100 {
+  margin-top: 40px !important;
+}
+  .testimonio1 p {
+      font-size: .8em !important;
+  }
+}
+
 @media only screen and (min-width:1200px) and (max-width:1400px){
+  .top1-100 {
+    margin-top: 30px !important;
+}
+.top-100 {
+  margin-top: 40px !important;
+}
   .bg-quienes{
     /*height: 90vh;*/
     padding: 7% 0 !important;
@@ -2099,6 +2167,9 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:200px) and (max-width:600px){
+  .slick-slider {
+    margin: 30px auto 100px !important;
+}
   .bg-quienes3{
     height: auto;
     padding: 50px 0 150px 0 !important;
