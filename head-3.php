@@ -26,7 +26,7 @@
            <a href="que-es.php"><img width="130px;" src="images/recursos/logo23.png" title="Logo header" alt="Legal Nest"></a>
            <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
            <ul class="side-nav" id="mobile-demo">
-             <a class='dropdown-button' href='quienes-somos.php' data-activates='dropdown3'><li>
+             <a class='dropdown-button' href='#' data-activates='dropdown3'><li>
                <span>¿QUIÉNES SOMOS?</span>
              </li></a>
              <ul id='dropdown3' class='dropdown-content'>
@@ -59,7 +59,7 @@
       <div class="col l9">
         <div class="menu-legal-2 nopadding" style="display:inline-block">
           <ul>
-            <a class='dropdown-button' href='quienes-somos.php' data-activates='dropdown1'><li>
+            <a class='dropdown-button' href='#' data-activates='dropdown1'><li>
               <span>¿QUIÉNES SOMOS?</span>
             </li></a>
             <ul id='dropdown1' class='dropdown-content'>

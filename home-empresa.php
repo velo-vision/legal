@@ -40,7 +40,7 @@
               <a href="pyme-home.php"><img class="hvr-rotate" src="images/recursos/boton-pyme.png" alt="Legla Nest"></a>
             </div>
             <div class="boton3 hvr-pulse">
-              <a href=""><img class="hvr-rotate" src="images/recursos/boton-empresa-full.png" alt="Legla Nest"></a>
+              <img class="hvr-rotate" src="images/recursos/boton-empresa-full.png" alt="Legla Nest">
             </div>
             <div class="boton4">
               <a href="consolidada.php"><img class="hvr-rotate" src="images/recursos/boton-servicios.png" alt="Legla Nest"></a>

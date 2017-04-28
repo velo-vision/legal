@@ -24,9 +24,9 @@
           <p class="nomargin"><strong>EMPRESA CONSOLIDADA</strong></p>
         </div>
       </div>
-      <div class="col l12 m12 s12 top-50">
-        <div class="col l12 s12">
-          <div class="col l3 s12 startup-paquete nopadding">
+      <div class="col l12 m12 s12 top-50 centrado">
+        <div class="col l6 s12">
+          <div class="col l6 m6 s12 startup-paquete nopadding">
             <div class="col l3 s12 nopadding">
               <div class="col l12 s12 nopadding">
                 <img src="images/consolidada/ordena.png" title="Ordena tu empresa" alt="Legal Nest">
@@ -42,7 +42,7 @@
               </div>
             </div>
           </div>
-          <div class="col l3 startup-paquete nopadding">
+          <div class="col l6 m6 startup-paquete nopadding">
             <div class="col l3 s12 nopadding">
               <div class="col l12 s12 nopadding">
                 <img src="images/consolidada/analisis.png" title="Análisis Fiscal" alt="Legal Nest">
@@ -59,7 +59,9 @@
               </div>
             </div>
           </div>
-          <div class="col l3 s12 startup-paquete nopadding">
+        </div>
+        <div class="col s12 m12 l6">
+          <div class="col l6 m6 s12 startup-paquete nopadding">
             <div class="col l3 s12 nopadding">
               <div class="col l12 s12 nopadding">
                 <img src="images/consolidada/digital.png" title="Digitalización Documentos" alt="Legal Nest">
@@ -75,7 +77,7 @@
               </div>
             </div>
           </div>
-          <div class="col l3 s12 startup-paquete nopadding">
+          <div class="col l6 m6 s12 startup-paquete nopadding">
             <div class="col l3 s12 nopadding">
               <img src="images/consolidada/control.png" title="Control corporativo" alt="Legal Nest">
             </div>
@@ -91,59 +93,64 @@
             </div>
           </div>
         </div>
-        <div class="col l12 s12">
-          <div class="col l3 s12 startup-paquete nopadding">
-            <div class="col l3 s12 nopadding">
-              <img src="images/consolidada/formalizar.png" title="Formalizar obligaciones pendientes" alt="Legal Nest">
+
+        <div class="col s12 m12 l12">
+          <div class="col l6 s12">
+            <div class="col l6 m6 s12 startup-paquete nopadding">
+              <div class="col l3 s12 nopadding">
+                <img src="images/consolidada/formalizar.png" title="Formalizar obligaciones pendientes" alt="Legal Nest">
+              </div>
+              <div class="col l9">
+                <div class="col l12">
+                  <p><strong>Formalizar obligaciones pendientes</strong></p>
+                  <p>
+                    Te ayudamos a documentar todos
+                    esos derechos y obligaciones que
+                    estén pendientes de formalizarse.
+                  </p>
+                </div>
+              </div>
             </div>
-            <div class="col l9">
-              <div class="col l12">
-                <p><strong>Formalizar obligaciones pendientes</strong></p>
-                <p>
-                  Te ayudamos a documentar todos
-                  esos derechos y obligaciones que
-                  estén pendientes de formalizarse.
-                </p>
+            <div class="col l6 m6 startup-paquete nopadding">
+              <div class="col l3 s12 nopadding">
+                <div class="col l12 s12 nopadding">
+                  <img src="images/consolidada/analisis-2.png" title="Analisis de optimización Corporativa" alt="Legal Nest">
+                </div>
+              </div>
+              <div class="col l9">
+                <div class="col l12">
+                  <p><strong>análisis de optimimzación corporativo</strong></p>
+                  <p>
+                    Te presentamos un cuadro corporativo
+                    del estatus de tu empresa y las
+                    maneras en las que creemos que
+                    puedes optimizar tus gastos.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
-          <div class="col l3 startup-paquete nopadding">
-            <div class="col l3 s12 nopadding">
-              <div class="col l12 s12 nopadding">
-                <img src="images/consolidada/analisis-2.png" title="Analisis de optimización Corporativa" alt="Legal Nest">
+          <div class="col s12 m12 l6">
+            <div class="col l6 m6 s12 startup-paquete nopadding">
+              <div class="col l3 s12 nopadding">
+                <img src="images/consolidada/corporativo.png" title="Corporativo" alt="Legal Nest">
+              </div>
+              <div class="col l9">
+                <div class="col l12">
+                  <p><strong>corporativo</strong></p>
+                  <p>
+                    Te ayudamos con todo tipo de poderes,
+                    asambleas y trámites de gobierno
+                    corporativo ante la autoridad
+                    correspondiente.
+                  </p>
+                </div>
               </div>
             </div>
-            <div class="col l9">
-              <div class="col l12">
-                <p><strong>análisis de optimimzación corporativo</strong></p>
-                <p>
-                  Te presentamos un cuadro corporativo
-                  del estatus de tu empresa y las
-                  maneras en las que creemos que
-                  puedes optimizar tus gastos.
-                </p>
+            <div class="col l6 m6 s12 startup-paquete">
+              <div class="col l12 s12 in-house23">
+                <img src="images/consolidada/in-house.png" title="IN-HOUSE-COUNSEL" alt="Legal Nest">
               </div>
-            </div>
-          </div>
-          <div class="col l3 s12 startup-paquete nopadding">
-            <div class="col l3 s12 nopadding">
-              <img src="images/consolidada/corporativo.png" title="Corporativo" alt="Legal Nest">
-            </div>
-            <div class="col l9">
-              <div class="col l12">
-                <p><strong>corporativo</strong></p>
-                <p>
-                  Te ayudamos con todo tipo de poderes,
-                  asambleas y trámites de gobierno
-                  corporativo ante la autoridad
-                  correspondiente.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col l3 s12 startup-paquete">
-            <div class="col l12 s12 in-house23">
-              <img src="images/consolidada/in-house.png" title="IN-HOUSE-COUNSEL" alt="Legal Nest">
             </div>
           </div>
         </div>
@@ -154,12 +161,12 @@
         </div>
         <div class="col l2 offset-l2 m6 s12">
           <div class="col l12 s12 nomargin">
-            <a href="#"><p class="boton-startup">Conoce todos <br> nuestros servicios</p></a>
+            <a href="servicios.php"><p class="boton-startup">Conoce todos <br> nuestros servicios</p></a>
           </div>
         </div>
         <div class="col l1 s12">
           <div class="col l12 s12 nomargin top-50 volver23">
-              <a href="#!"><img src="images/paquetes/volver.png" title="Botón Volver" alt="Legal Nest"></a>
+              <a href="home-empresa.php"><img src="images/paquetes/volver.png" title="Botón Volver" alt="Legal Nest"></a>
             </div>
           </div>
         </div>

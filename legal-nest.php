@@ -74,6 +74,28 @@
           </div>
           <!-- <div>
             <h3>
+              <img style="width:100px!important;margin:20px auto;" src="images/legal/3.png" alt="">
+            </h3>
+              <p class="nomargin top-30">
+                Costos Claros Para
+              </p>
+              <p class="nomargin">
+                Una Relación Larga
+              </p>
+          </div> -->
+          <!-- <div>
+            <h3>
+            <img style="width:100px!important;margin:20px auto;" src="images/legal/3.png" alt="">
+            </h3>
+              <p class="nomargin top-30">
+                Cobramos por Ejecución,
+              </p>
+              <p class="nomargin">
+                No por Hora
+              </p>
+          </div> -->
+          <!-- <div>
+            <h3>
               <img style="width:100px!important;margin:20px auto;" src="images/legal/4.png" alt="">
             </h3>
               <p class="nomargin top-30">
