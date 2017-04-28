@@ -49,10 +49,13 @@
                 Te ofrecemos herramientas
               </p>
               <p class="nomargin">
-                tecnológicas para un servicio
+                tecnológicas para un servicio más
               </p>
               <p class="nomargin">
-                 más eficiente.
+                eficiente. y líneas de comunicación
+              </p>
+              <p class="nomargin">
+                directa con nosotros
               </p>
           </div>
           <div>
@@ -69,7 +72,7 @@
                  estable y de confianza.
               </p>
           </div>
-          <div>
+          <!-- <div>
             <h3>
               <img style="width:100px!important;margin:20px auto;" src="images/legal/4.png" alt="">
             </h3>
@@ -88,7 +91,7 @@
               <p class="nomargin">
                 constante contigo.
               </p>
-          </div>
+          </div> -->
           <div>
             <h3>
               <img style="width:100px!important;margin:20px auto;" src="images/legal/5.png" alt="">
@@ -139,6 +142,7 @@
 $('.center').slick({
 centerMode: true,
 autoplay:true,
+autoplaySpeed:6000,
 centerPadding: '50px',
 slidesToShow: 3,
 responsive: [

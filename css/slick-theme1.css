@@ -137,8 +137,8 @@
 
     width: 20px;
     height: 20px;
-    margin: 15px 5px;
-    padding: 0;
+    margin: 0px 5px;
+    padding: 15px 0;
 
     cursor: pointer;
 }
@@ -165,54 +165,73 @@
 {
     outline: none;
 }
+.slick-dots li button:focus {
+    outline: none;
+    background: #8c8c88;
+    border-radius: 50%;
+    width: 85px;
+    height: 85px;
+    position: relative;
+    font-size: 66px;
+    color: #fff;
+    content: none;
+}
 .slick-dots li button:hover:before,
 .slick-dots li button:focus:before
 {
     opacity: 1;
 }
-/*.slick-dots li button:before
-{
+.slick-dots li button:before {
     font-family: 'slick';
-    font-size: 100px;
+    font-size: 50px;
     line-height: 20px;
-
     position: absolute;
     top: 0;
     left: 0;
-
-    width: 20px;
+    width: 85px;
     height: 20px;
-
     content: '•';
-    /*content: url(../images/legal/punto.png) !important;*/
+    /* content: url(../images/legal/punto.png) !important; */
     text-align: center;
-
     opacity: .25;
-    color: black;
-
+    /*color: #000;*/
+    color: #8c8c88;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-}*/
-/*.slick-dots li button:hover
-{
-    font-family: 'slick';
-    font-size: 66px;
-    line-height: 20px;
+}
 
-    position: absolute;
-    top: 0;
-    left: 0;
+/*Dots*/
 
-    width: 20px;
-    height: 20px;
 
-    /*content: '•';*/
-    content: url(../images/legal/next.png) !important;
-    text-align: center;
+  .slick-dots  li {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+        &:before {
+          content: '';
+          background: #fff;
+          color: #fff;
+          height: 2px;
+          width: 20px;
+          border-radius: 0;
+          position: absolute;
+          top: 50%;
+          right: 0;
+          left: auto;
+          transform: translateY(-50%);
+          transition: all .3s ease-in-out;
+          opacity: 0.6;
+        }
+      }
 
-    opacity: .25;
-    color: black;
-
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}*/
+      &.slick-active {
+        button {
+          &:before {
+            width: 40px;
+            opacity: 1;
+          }
+        }
+      }
+    }
+  }

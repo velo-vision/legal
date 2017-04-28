@@ -162,9 +162,9 @@
 <script>
 
 $('.center').slick({
-// dots: true,
+dots: true,
 centerMode: true,
-autoplay:true,
+autoplay:false,
 centerPadding: '0px',
 slidesToShow: 1,
 responsive: [

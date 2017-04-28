@@ -37,10 +37,10 @@
               <a href="startup-home.php"><img class="hvr-rotate" src="images/recursos/boton-startup.png" alt="Legla Nest"></a>
             </div>
             <div class="boton3 hvr-pulse">
-              <a href="pyme-1.php"><img class="hvr-rotate" src="images/recursos/boton-pyme-full.png" alt="Legla Nest"></a>
+              <a href=""><img class="hvr-rotate" src="images/recursos/boton-pyme-full.png" alt="Legla Nest"></a>
             </div>
             <div class="boton4">
-              <a href="paquete-1.php"><img class="hvr-rotate" src="images/recursos/boton-paquetes.png" alt="Legla Nest"></a>
+              <a href="pyme-1.php"><img class="hvr-rotate" src="images/recursos/boton-paquetes.png" alt="Legla Nest"></a>
             </div>
             <!-- <div style="display:inline-block" class="">
               <img src="images/recursos/boton-contactanos.png" alt="Legla Nest">
@@ -77,7 +77,7 @@
           </div>
           <div class="col m12 s12 center">
             <div class="col m4 offset-m2 s6 boton-medium">
-              <a href="paquete-1.php"><img class="hvr-rotate" src="images/recursos/boton-paquetes.png" alt="Legla Nest"></a>
+              <a href="pyme-1.php"><img class="hvr-rotate" src="images/recursos/boton-paquetes.png" alt="Legla Nest"></a>
             </div>
             <div class="col m4 s6 boton-medium">
               <a href="contacto.php"><img class="hvr-rotate" src="images/recursos/boton-contactanos.png" alt="Legla Nest"></a>

@@ -36,7 +36,7 @@
               <a href="home-empresa.php"><img class="hvr-rotate" src="images/recursos/boton-empresa.png" alt="Legla Nest"></a>
             </div>
             <div class="boton3 hvr-pulse">
-              <a href="paquete-1.php"><img class="hvr-rotate" src="images/recursos/boton-startup-full.png" alt="Legla Nest"></a>
+              <a href=""><img class="hvr-rotate" src="images/recursos/boton-startup-full.png" alt="Legla Nest"></a>
             </div>
             <div class="boton4">
               <a href="paquete-1.php"><img class="hvr-rotate" src="images/recursos/boton-paquetes.png" alt="Legla Nest"></a>

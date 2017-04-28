@@ -57,7 +57,7 @@
         </div>
         <div class="col l3 m3 s12 startup-paquete">
           <div class="col l12 m12 s12">
-            <p><strong>RFG/FIEL/CIEC</strong></p>
+            <p><strong>RFC/FIEL/CIEC</strong></p>
           </div>
           <div class="col l12 m12 s12">
             <img src="images/paquetes/rfc.png" title="RFC" alt="Legal Nest">

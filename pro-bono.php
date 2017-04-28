@@ -15,7 +15,7 @@
   <div class="valign-wrapper content-pro">
     <div class="col l12 s12 nomargin valign">
       <div class="col l12 s12 nomargin center">
-        <a href="index.php"><img src="images/recursos/logo-pro.png" title="Logo header" alt="Legal Nest"></a>
+        <a href="que-es.php"><img src="images/recursos/logo23.png" title="Logo header" alt="Legal Nest" width="300px"></a>
       </div>
       <div class="col l8 offset-l2 m12 s12 top-50 center pro-bono">
         <p>

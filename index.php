@@ -117,7 +117,7 @@ text-decoration: none;
         </p>
         </div>
         <div class="boton-enojon">
-        <a href="quienes-somos.php"><p class="boton-futuro">
+        <a href="que-es.php"><p class="boton-futuro">
           Descubre el futuro de <br>
           los servicios legales
         </p></a>

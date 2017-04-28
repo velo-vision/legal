@@ -23,54 +23,52 @@
      <div class="row nomargin hide-on-large-only">
        <nav>
          <div class="nav-wrapper">
-           <a href="quienes-somos.php"><img width="130px;" src="images/recursos/logo.png" title="Logo header" alt="Legal Nest"></a>
+           <a href="que-es.php"><img width="130px;" src="images/recursos/logo23.png" title="Logo header" alt="Legal Nest"></a>
            <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
            <ul class="side-nav" id="mobile-demo">
-             <a class='dropdown-button' href='#' data-activates='dropdown3'><li>
+             <a class='dropdown-button' href='quienes-somos.php' data-activates='dropdown3'><li>
                <span>¿QUIÉNES SOMOS?</span>
              </li></a>
              <ul id='dropdown3' class='dropdown-content'>
-               <li class="nomargin"><a href="que-es.php"><span>¿Qué es Legal Nest?</span></a></li>
                <li class="nomargin"><a href="legal-nest.php"><span>¿Por qué Legal Nest</span></a></li>
                <li class="nomargin"><a href="que-no-somos.php"><span>¿Qué no somos?</span></a></li>
                <li class="nomargin"><a href="nuestro-equipo.php"><span>Nuestro equipo</span></a></li>
                <li class="nomargin"><a href="testimoniales.php"><span>Testimoniales</span></a></li>
              </ul>
-             <a href="pricing.php"><li><span>PRICING POLICY</span></li></a>
+             <a href="servicios.php"><li><span>SERVICIOS</span></li></a>
              <a href='startup-home.php'><li><span>PAQUETES</span></li></a>
-             <!-- <ul id='dropdown2' class='dropdown-content'>
+             <a href="pricing.php"><li><span>PRICING POLICY</span></li></a>
+             <!-- <ul id='dropdown4' class='dropdown-content'>
                <li class="nomargin"><a href="startup-home.php"><span>Startup</span></a></li>
                <li class="nomargin"><a href="pyme-home.php"><span>Pyme</span></a></li>
                <li class="nomargin"><a href="home-empresa.php"><span>Consolidada</span></a></li>
              </ul> -->
-             <a href="servicios.php"><li><span>SERVICIOS</span></li></a>
              <a href="contacto.php"><li><span>CONTACTO</span></li></a>
-             <a href="pro-bono.php"><li><span>FUNDACIONES</span></li></a>>
+             <a href="pro-bono.php"><li><span>FUNDACIONES</span></li></a>
            </ul>
          </div>
        </nav>
      </div>
 
-    <div class="row nomargin hide-on-small-only hide-on-med-only">
+    <div class="row nomargin hide-on-small-only hide-on-med-only bg-menu">
       <div class="col l3">
         <div class="col l12 logo-legal">
-          <a href="quienes-somos.php"><img src="images/recursos/logo.png" title="Logo header" alt="Legal Nest"></a>
+          <a href="que-es.php"><img src="images/recursos/logo23.png" title="Logo header" alt="Legal Nest"></a>
         </div>
       </div>
       <div class="col l9">
-        <div class="menu-legal-2" style="display:inline-block">
+        <div class="menu-legal-2 nopadding" style="display:inline-block">
           <ul>
-            <a class='dropdown-button' href='#' data-activates='dropdown1'><li>
+            <a class='dropdown-button' href='quienes-somos.php' data-activates='dropdown1'><li>
               <span>¿QUIÉNES SOMOS?</span>
             </li></a>
             <ul id='dropdown1' class='dropdown-content'>
-              <li class="nomargin"><a href="que-es.php"><span>¿Qué es Legal Nest?</span></a></li>
               <li class="nomargin"><a href="legal-nest.php"><span>¿Por qué Legal Nest</span></a></li>
               <li class="nomargin"><a href="que-no-somos.php"><span>¿Qué no somos?</span></a></li>
               <li class="nomargin"><a href="nuestro-equipo.php"><span>Nuestro equipo</span></a></li>
               <li class="nomargin"><a href="testimoniales.php"><span>Testimoniales</span></a></li>
             </ul>
-            <a href="pricing.php"><li><span>PRICING POLICY</span></li></a>
+            <a href="servicios.php"><li><span>SERVICIOS</span></li></a>
             <a href='startup-home.php'><li><span>PAQUETES</span></li></a>
             <!-- <ul id='dropdown4' class='dropdown-content'>
               <li class="nomargin"><a href="startup-home.php"><span>Startup</span></a></li>
@@ -81,7 +79,7 @@
         </div>
         <div class="menu-legal" style="display:inline-block">
           <ul>
-            <a href="servicios.php"><li><span>SERVICIOS</span></li></a>
+            <a href="pricing.php"><li><span>PRICING POLICY</span></li></a>
             <a href="contacto.php"><li><span>CONTACTO</span></li></a>
             <a href="pro-bono.php"><li><span>FUNDACIONES</span></li></a>
           </ul>

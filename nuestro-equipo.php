@@ -291,7 +291,7 @@
 
 $('.center').slick({
 centerMode: true,
-autoplay:true,
+autoplay:false,
 centerPadding: '0px',
 slidesToShow: 1,
 responsive: [

@@ -15,20 +15,20 @@
 <div class="row nomargin">
   <div class="valign-wrapper">
     <div class="col l12 s12 valign">
-      <div class="col l12 nomargin">
-        <div class="col l2 paquete-startup center">
+      <div class="col l12 s12 nomargin">
+        <div class="col l2 s12 paquete-startup center">
           <img src="images/consolidada/nave.png" title="Nave Consolidada" alt="Legal Nest">
         </div>
         <div class="col l4 servicios-consolidada top-50">
-          <p class="nomargin">SERVCIOS</p>
+          <p class="nomargin">SERVICIOS</p>
           <p class="nomargin"><strong>EMPRESA CONSOLIDADA</strong></p>
         </div>
       </div>
       <div class="col l12 m12 s12 top-50">
-        <div class="col l12">
-          <div class="col l3 startup-paquete">
-            <div class="col l3">
-              <div class="col l12">
+        <div class="col l12 s12">
+          <div class="col l3 s12 startup-paquete nopadding">
+            <div class="col l3 s12 nopadding">
+              <div class="col l12 s12 nopadding">
                 <img src="images/consolidada/ordena.png" title="Ordena tu empresa" alt="Legal Nest">
               </div>
             </div>
@@ -42,9 +42,9 @@
               </div>
             </div>
           </div>
-          <div class="col l3 startup-paquete">
-            <div class="col l3">
-              <div class="col l12">
+          <div class="col l3 startup-paquete nopadding">
+            <div class="col l3 s12 nopadding">
+              <div class="col l12 s12 nopadding">
                 <img src="images/consolidada/analisis.png" title="Análisis Fiscal" alt="Legal Nest">
               </div>
             </div>
@@ -59,14 +59,14 @@
               </div>
             </div>
           </div>
-          <div class="col l3 startup-paquete">
-            <div class="col l3">
-              <div class="col l12">
+          <div class="col l3 s12 startup-paquete nopadding">
+            <div class="col l3 s12 nopadding">
+              <div class="col l12 s12 nopadding">
                 <img src="images/consolidada/digital.png" title="Digitalización Documentos" alt="Legal Nest">
               </div>
             </div>
-            <div class="col l9">
-              <div class="col l12">
+            <div class="col l9 s12">
+              <div class="col l12 s12">
                 <p><strong>digitalización documentos</strong></p>
                 <p>
                   Administración virtual y
@@ -75,12 +75,12 @@
               </div>
             </div>
           </div>
-          <div class="col l3">
-            <div class="col l3">
+          <div class="col l3 s12 startup-paquete nopadding">
+            <div class="col l3 s12 nopadding">
               <img src="images/consolidada/control.png" title="Control corporativo" alt="Legal Nest">
             </div>
-            <div class="col l9">
-              <div class="col l12">
+            <div class="col l9 s12">
+              <div class="col l12 s12">
                 <p><strong>Control corporativo</strong></p>
                 <p>
                   Actualización y administración anual
@@ -91,9 +91,9 @@
             </div>
           </div>
         </div>
-        <div class="col l12">
-          <div class="col l3">
-            <div class="col l3">
+        <div class="col l12 s12">
+          <div class="col l3 s12 startup-paquete nopadding">
+            <div class="col l3 s12 nopadding">
               <img src="images/consolidada/formalizar.png" title="Formalizar obligaciones pendientes" alt="Legal Nest">
             </div>
             <div class="col l9">
@@ -107,9 +107,9 @@
               </div>
             </div>
           </div>
-          <div class="col l3 startup-paquete">
-            <div class="col l3">
-              <div class="col l12">
+          <div class="col l3 startup-paquete nopadding">
+            <div class="col l3 s12 nopadding">
+              <div class="col l12 s12 nopadding">
                 <img src="images/consolidada/analisis-2.png" title="Analisis de optimización Corporativa" alt="Legal Nest">
               </div>
             </div>
@@ -125,8 +125,8 @@
               </div>
             </div>
           </div>
-          <div class="col l3 startup-paquete">
-            <div class="col l3">
+          <div class="col l3 s12 startup-paquete nopadding">
+            <div class="col l3 s12 nopadding">
               <img src="images/consolidada/corporativo.png" title="Corporativo" alt="Legal Nest">
             </div>
             <div class="col l9">
@@ -141,24 +141,24 @@
               </div>
             </div>
           </div>
-          <div class="col l3 startup-paquete">
-            <div class="col l12">
+          <div class="col l3 s12 startup-paquete">
+            <div class="col l12 s12 in-house23">
               <img src="images/consolidada/in-house.png" title="IN-HOUSE-COUNSEL" alt="Legal Nest">
             </div>
           </div>
         </div>
       </div>
-      <div class="col l12">
-        <div class="col l2 offset-l5">
+      <div class="col l12 m12 s12">
+        <div class="col l2 offset-l5 m6 s12">
           <a href="contacto.php"><p class="contacto-paquete">Contacto</p></a>
         </div>
-        <div class="col l2 offset-l2">
-          <div class="col l12 nomargin">
+        <div class="col l2 offset-l2 m6 s12">
+          <div class="col l12 s12 nomargin">
             <a href="#"><p class="boton-startup">Conoce todos <br> nuestros servicios</p></a>
           </div>
         </div>
-        <div class="col l1">
-          <div class="col l12 nomargin top-50">
+        <div class="col l1 s12">
+          <div class="col l12 s12 nomargin top-50 volver23">
               <a href="#!"><img src="images/paquetes/volver.png" title="Botón Volver" alt="Legal Nest"></a>
             </div>
           </div>

@@ -40,10 +40,10 @@
               <a href="pyme-home.php"><img class="hvr-rotate" src="images/recursos/boton-pyme.png" alt="Legla Nest"></a>
             </div>
             <div class="boton3 hvr-pulse">
-              <a href="consolidada.php"><img class="hvr-rotate" src="images/recursos/boton-empresa-full.png" alt="Legla Nest"></a>
+              <a href=""><img class="hvr-rotate" src="images/recursos/boton-empresa-full.png" alt="Legla Nest"></a>
             </div>
             <div class="boton4">
-              <a href="servicios.php"><img class="hvr-rotate" src="images/recursos/boton-servicios.png" alt="Legla Nest"></a>
+              <a href="consolidada.php"><img class="hvr-rotate" src="images/recursos/boton-servicios.png" alt="Legla Nest"></a>
             </div>
             <!-- <div style="display:inline-block" class="">
               <img src="images/recursos/boton-contactanos.png" alt="Legla Nest">
@@ -80,7 +80,7 @@
           </div>
           <div class="col m12 s12 center">
             <div class="col m4 offset-m2 s6 boton-medium">
-              <a href="servicios.php"><img class="hvr-rotate" src="images/recursos/boton-servicios.png" alt="Legla Nest"></a>
+              <a href="consolidada.php"><img class="hvr-rotate" src="images/recursos/boton-servicios.png" alt="Legla Nest"></a>
             </div>
             <div class="col m4 s6 boton-medium">
               <a href="contacto.php"><img class="hvr-rotate" src="images/recursos/boton-contactanos.png" alt="Legla Nest"></a>
