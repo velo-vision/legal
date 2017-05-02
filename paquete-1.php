@@ -96,7 +96,7 @@
       </div>
       <div class="col l12 m12 s12">
         <div class="boton-volver">
-          <a href="paquetes.php"><img src="images/paquetes/volver.png" title="Botón Volver" alt="Legal Nest"></a>
+          <a href="startup-home.php"><img src="images/paquetes/volver.png" title="Botón Volver" alt="Legal Nest"></a>
         </div>
       </div>
     </div>

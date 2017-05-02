@@ -40,7 +40,7 @@
       <div class="col l10 offset-l1 m12 s12 top-50">
         <div class="col l12 m12 s12 nomargin">
           <div class="col l4 m4 s12 startup-paquete">
-            <div class="col l3 s12">
+            <div class="col l3 s12 nomargin">
               <div class="col l12 s12 center startup-img">
                 <img src="images/paquetes/marca.png" title="Marca" alt="Legal Nest">
               </div>
@@ -72,7 +72,7 @@
             </div>
           </div>
           <div class="col l4 m4 s12">
-            <div class="col l3 s12 center startup-img">
+            <div class="col l3 s12 center startup-img nomargin">
               <img src="images/paquetes/contrato-a.png" title="NDA" alt="Legal Nest">
             </div>
             <div class="col l9 s12">
@@ -119,7 +119,7 @@
       </div>
       <div class="col l12 s12">
         <div class="boton-volver">
-          <a href="pymes.php"><img src="images/paquetes/volver.png" title="Botón Volver" alt="Legal Nest"></a>
+          <a href="pyme-home.php"><img src="images/paquetes/volver.png" title="Botón Volver" alt="Legal Nest"></a>
         </div>
       </div>
     </div>

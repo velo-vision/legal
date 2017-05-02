@@ -40,7 +40,7 @@
       <div class="col l10 offset-l1 m12 s12 top-50">
         <div class="col l12 m12 s12 nomargin">
           <div class="col l4 m4 s12 startup-paquete">
-            <div class="col l3 s12">
+            <div class="col l3 s12 nomargin">
               <div class="col l12 s12 center startup-img">
                 <img src="images/paquetes/Marca.png" title="Marca" alt="Legal Nest">
               </div>
@@ -87,7 +87,7 @@
             </div>
           </div>
         </div>
-        <div class="col l12 s12">
+        <div class="col l12 s12 nomargin">
           <div class="col l4 m4 s12 startup-paquete">
             <div class="col l3 s12 center startup-img">
               <img src="images/paquetes/aviso.png" title="Aviso de privacidad" alt="Legal Nest">

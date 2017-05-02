@@ -40,8 +40,8 @@
       <div class="col l12 m12 s12 top-50">
         <div class="col l12 s12 nomargin">
           <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12">
-              <div class="col l12 s12 center startup-img">
+            <div class="col l3 s12 nomargin">
+              <div class="col l12 s12 center startup-img nomargin">
                 <img src="images/paquetes/Marca.png" title="Marca" alt="Legal Nest">
               </div>
             </div>
@@ -57,7 +57,7 @@
             </div>
           </div>
           <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12 startup-img center">
+            <div class="col l3 s12 startup-img center nomargin">
               <img src="images/paquetes/nda.png" title="NDA" alt="Legal Nest">
             </div>
             <div class="col l9 s12">
@@ -71,8 +71,8 @@
               </div>
             </div>
           </div>
-          <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12 center startup-img">
+          <div class="col l3 m3 s12 startup-paquete nomargin">
+            <div class="col l3 s12 center startup-img nomargin">
               <img src="images/paquetes/contrato-a.png" title="NDA" alt="Legal Nest">
             </div>
             <div class="col l9 s12">
@@ -99,8 +99,8 @@
           </div>
         </div>
         <div class="col l12 s12 top-50">
-          <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12 center startup-img">
+          <div class="col l3 m3 s12 startup-paquete nomargin">
+            <div class="col l3 s12 center startup-img nomargin">
               <img src="images/pyme/libros.png" title="Apertura de Libros" alt="Legal Nest">
             </div>
             <div class="col l9 s12">
@@ -131,7 +131,7 @@
             </div>
           </div>
           <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12 center startup-img">
+            <div class="col l3 s12 center startup-img nomargin">
               <img src="images/pyme/digital.png" title="Digitalización Documentos" alt="Legal Nest">
             </div>
             <div class="col l9 s12">
@@ -142,7 +142,7 @@
             </div>
           </div>
           <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12 center startup-img">
+            <div class="col l3 s12 center startup-img nomargin">
               <img src="images/paquetes/legal.png" title="Asesoría Legal" alt="Legal Nest">
             </div>
             <div class="col l9 s12">

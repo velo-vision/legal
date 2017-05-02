@@ -72,9 +72,9 @@
                  estable y de confianza.
               </p>
           </div>
-          <!-- <div>
+          <div>
             <h3>
-              <img style="width:100px!important;margin:20px auto;" src="images/legal/3.png" alt="">
+              <img style="width:100px!important;margin:20px auto;" src="images/legal/costos_claros.png" alt="">
             </h3>
               <p class="nomargin top-30">
                 Costos Claros Para
@@ -82,10 +82,10 @@
               <p class="nomargin">
                 Una Relación Larga
               </p>
-          </div> -->
-          <!-- <div>
+          </div>
+          <div>
             <h3>
-            <img style="width:100px!important;margin:20px auto;" src="images/legal/3.png" alt="">
+              <img style="width:100px!important;margin:20px auto;" src="images/legal/cobramos.png" alt="">
             </h3>
               <p class="nomargin top-30">
                 Cobramos por Ejecución,
@@ -93,7 +93,7 @@
               <p class="nomargin">
                 No por Hora
               </p>
-          </div> -->
+          </div>
           <!-- <div>
             <h3>
               <img style="width:100px!important;margin:20px auto;" src="images/legal/4.png" alt="">

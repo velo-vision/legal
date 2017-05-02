@@ -155,17 +155,19 @@
           </div>
         </div>
       </div>
-      <div class="col l12 m12 s12">
-        <div class="col l2 offset-l5 m6 s12">
-          <a href="contacto.php"><p class="contacto-paquete">Contacto</p></a>
-        </div>
-        <div class="col l2 offset-l2 m6 s12">
-          <div class="col l12 s12 nomargin">
-            <a href="servicios.php"><p class="boton-startup">Conoce todos <br> nuestros servicios</p></a>
+        <div class="col l12 m12 s12" style="margin-top:45px; margin-bottom:5px">
+          <div class="col l2 offset-l4 m4 offset-m4 s8 offset-s2">
+            <div class="col l12 m12 s12">
+              <a href="contacto.php"><p class="contacto-paquete">Contacto</p></a>
+            </div>
           </div>
-        </div>
-        <div class="col l1 s12">
-          <div class="col l12 s12 nomargin top-50 volver23">
+          <div class="col l2 offset-l2 m6 offset-m3 s12">
+            <div class="col l12 s12 nomargin">
+              <a href="servicios.php"><p class="boton-startup">Conoce todos <br> nuestros servicios</p></a>
+            </div>
+          </div>
+          <div class="col l2 s12">
+            <div class="col l12 s12 nomargin top-50 volver23">
               <a href="home-empresa.php"><img src="images/paquetes/volver.png" title="Botón Volver" alt="Legal Nest"></a>
             </div>
           </div>

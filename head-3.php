@@ -30,7 +30,7 @@
                <span>¿QUIÉNES SOMOS?</span>
              </li></a>
              <ul id='dropdown3' class='dropdown-content'>
-               <li class="nomargin"><a href="legal-nest.php"><span>¿Por qué Legal Nest</span></a></li>
+               <li class="nomargin"><a href="legal-nest.php"><span>¿Por qué Legal Nest?</span></a></li>
                <li class="nomargin"><a href="que-no-somos.php"><span>¿Qué no somos?</span></a></li>
                <li class="nomargin"><a href="nuestro-equipo.php"><span>Nuestro equipo</span></a></li>
                <li class="nomargin"><a href="testimoniales.php"><span>Testimoniales</span></a></li>
@@ -63,26 +63,23 @@
               <span>¿QUIÉNES SOMOS?</span>
             </li></a>
             <ul id='dropdown1' class='dropdown-content'>
-              <li class="nomargin"><a href="legal-nest.php"><span>¿Por qué Legal Nest</span></a></li>
+              <li class="nomargin"><a href="legal-nest.php"><span>¿Por qué Legal Nest?</span></a></li>
               <li class="nomargin"><a href="que-no-somos.php"><span>¿Qué no somos?</span></a></li>
               <li class="nomargin"><a href="nuestro-equipo.php"><span>Nuestro equipo</span></a></li>
               <li class="nomargin"><a href="testimoniales.php"><span>Testimoniales</span></a></li>
             </ul>
             <a href="servicios.php"><li><span>SERVICIOS</span></li></a>
             <a href='startup-home.php'><li><span>PAQUETES</span></li></a>
+            <a href="pricing.php"><li><span>PRICING POLICY</span></li></a>
             <!-- <ul id='dropdown4' class='dropdown-content'>
               <li class="nomargin"><a href="startup-home.php"><span>Startup</span></a></li>
               <li class="nomargin"><a href="pyme-home.php"><span>Pyme</span></a></li>
               <li class="nomargin"><a href="home-empresa.php"><span>Consolidada</span></a></li>
             </ul> -->
-          </ul>
-        </div>
-        <div class="menu-legal" style="display:inline-block">
-          <ul>
-            <a href="pricing.php"><li><span>PRICING POLICY</span></li></a>
             <a href="contacto.php"><li><span>CONTACTO</span></li></a>
             <a href="pro-bono.php"><li><span>FUNDACIONES</span></li></a>
           </ul>
         </div>
       </div>
+
     </div>

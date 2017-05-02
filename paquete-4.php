@@ -43,24 +43,24 @@
           </a>
         </div>
       </div>
-      <div class="col l12 m12 s12 top-50">
-        <div class="col l12 m12 s12">
+      <div class="col l12 m12 s12 top-50 nomargin">
+        <div class="col l12 m12 s12 nomargin">
           <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12">
-              <div class="col l12 s12 center startup-img">
+            <div class="col l3 s12 nomargin">
+              <div class="col l12 s12 center startup-img nomargin">
                 <img src="images/paquetes/constitutiva.png" title="Constitutiva" alt="Legal Nest">
               </div>
             </div>
             <div class="col l9 s12">
-              <div class="col l12 s12 center-middle">
+              <div class="col l12 s12 center-middle nomargin">
                 <p><strong>constitutiva</strong></p>
                 <p>La base para empezar tu negocio.  Aquí están las reglas que administran tu empresa.</p>
               </div>
             </div>
           </div>
           <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12">
-              <div class="col l12 s12 center startup-img">
+            <div class="col l3 s12 nomargin">
+              <div class="col l12 s12 center startup-img nomargin">
                 <img src="images/paquetes/rfc.png" title="RFC" alt="Legal Nest">
               </div>
             </div>
@@ -72,24 +72,24 @@
             </div>
           </div>
           <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12">
-              <div class="col l12 s12 startup-img center">
+            <div class="col l3 s12 nomargin">
+              <div class="col l12 s12 startup-img center nomargin">
                 <img src="images/paquetes/marca.png" title="Marca" alt="Legal Nest">
               </div>
             </div>
             <div class="col l9 s12">
-              <div class="col l12 s12 center-middle">
+              <div class="col l12 s12 center-middle nomargin">
                 <p><strong>marca</strong></p>
-                <p>Estudiamos las probabilidades de éxito y las clases correspondientes para después llevar a cabo el registro de tu marca.</p>
+                <p>Estudiamos las probabilidades de éxito y las clases correspondientes para después llevar a cabo el registro de tu marca.</p>
               </div>
             </div>
           </div>
-          <div class="col l3 m3 s12">
-            <div class="col l3 s12 startup-img center">
+          <div class="col l3 m3 s12 startup-paquete">
+            <div class="col l3 s12 startup-img center nomargin">
               <img src="images/paquetes/nda.png" title="NDA" alt="Legal Nest">
             </div>
             <div class="col l9 s12">
-              <div class="col l12 s12 center-middle">
+              <div class="col l12 s12 center-middle nomargin">
                 <p><strong>NDA</strong></p>
                 <p>
                   Formato de acuerdo de
@@ -100,13 +100,13 @@
             </div>
           </div>
         </div>
-        <div class="col l10 offset-l1 m12 s12 top-30">
-          <div class="col l3 m3 s12">
-            <div class="col l3 s12 center startup-img">
+        <div class="col l12 m12 s12 top-30 nomargin">
+          <div class="col l3 m3 s12 nomargin">
+            <div class="col l3 s12 center startup-img nomargin">
               <img src="images/paquetes/contrato-a.png" title="NDA" alt="Legal Nest">
             </div>
             <div class="col l9 s12">
-              <div class="col l12 s12 center-middle">
+              <div class="col l12 s12 center-middle nomargin">
                 <p><strong>CONTRATO A, B y C</strong></p>
                 <p>
                   Dependiendo de tus necesidades
@@ -116,9 +116,9 @@
               </div>
             </div>
           </div>
-          <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12">
-              <div class="col l12 s12 center startup-img">
+          <div class="col l3 m3 s12 nomargin startup-paquete">
+            <div class="col l3 s12 nomargin">
+              <div class="col l12 s12 center startup-img nomargin">
                 <img src="images/paquetes/aperturas.png" title="RFC" alt="Legal Nest">
               </div>
             </div>
@@ -129,51 +129,57 @@
               </div>
             </div>
           </div>
-          <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12 center startup-img">
+          <div class="col l3 m3 s12 nomargin startup-paquete">
+            <div class="col l3 s12 center startup-img nomargin">
               <img src="images/paquetes/libros.png" title="Asesoría Legal" alt="Legal Nest">
             </div>
             <div class="col l9 s12">
-              <div class="col l12 s12 center-middle">
+              <div class="col l12 s12 center-middle nomargin">
                 <p><strong>títulos</strong></p>
                 <p>Este documento sirve para documentar físicamente todas las acciones de una empresa.</p>
               </div>
             </div>
           </div>
-          <div class="col l3 m3 s12 startup-paquete">
-            <div class="col l3 s12 startup-img center">
+          <div class="col l3 m3 s12 nomargin startup-paquete">
+            <div class="col l3 s12 startup-img center nomargin">
               <img src="images/paquetes/aviso.png" title="Aviso de privacidad" alt="Legal Nest">
             </div>
             <div class="col l9 s12">
-              <div class="col l12 s12 center-middle">
+              <div class="col l12 s12 center-middle nomargin">
                 <p><strong>aviso de privacidad</strong></p>
                 <p>Este documento sirve para documentar físicamente todas las acciones de una empresa.</p>
               </div>
             </div>
           </div>
         </div>
-        <div class="col l10 offset-l1 m12 s12 top-30">
-          <div class="col l3 offset-l2 m3 offset-m2 s12 startup-paquete">
-            <div class="col l3 s12 center startup-img">
+        <div class="col l12 m12 s12 top-30 center">
+          <div class="col l3 m3 hide-on-small-only">
+            <p>&nbsp;</p>
+          </div>
+          <div class="col l3 offset-l2 m3 offset-m2 s12 startup-paquete nomargin">
+            <div class="col l3 s12 center startup-img nomargin">
               <img src="images/paquetes/libros.png" title="Asesoría Legal" alt="Legal Nest">
             </div>
             <div class="col l9 s12">
-              <div class="col l12 s12 center-middle">
+              <div class="col l12 s12 center-middle nomargin">
                 <p><strong>digitalización documentos</strong></p>
                 <p>Administración virtual y acceso de tus documentos.</p>
               </div>
             </div>
           </div>
-          <div class="col l3 offset-l2 m3 offset-m2 s12 startup-paquete">
-            <div class="col l3 s12 center startup-img">
+          <div class="col l3 offset-l2 m3 offset-m2 s12 startup-paquete nomargin">
+            <div class="col l3 s12 center startup-img nomargin">
               <img src="images/paquetes/legal.png" title="Asesoría Legal" alt="Legal Nest">
             </div>
             <div class="col l9 s12">
-              <div class="col l12 s12 center-middle">
+              <div class="col l12 s12 center-middle nomargin">
                 <p><strong>asesoría legal</strong></p>
                 <p>Siempre estamos disponibles para resolver cualquier duda que tengas.</p>
               </div>
             </div>
+          </div>
+          <div class="col l3 m3 hide-on-small-only">
+            <p>&nbsp;</p>
           </div>
         </div>
       </div>
@@ -184,7 +190,7 @@
       </div>
       <div class="col l12 s12">
         <div class="boton-volver">
-          <a href="paquete-2.php"><img src="images/paquetes/volver.png" title="Botón Volver" alt="Legal Nest"></a>
+          <a href="paquete-3.php"><img src="images/paquetes/volver.png" title="Botón Volver" alt="Legal Nest"></a>
         </div>
       </div>
     </div>

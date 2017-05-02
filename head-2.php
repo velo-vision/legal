@@ -30,7 +30,7 @@
                <span>¿QUIÉNES SOMOS?</span>
              </li></a>
              <ul id='dropdown3' class='dropdown-content'>
-               <li class="nomargin"><a href="legal-nest.php"><span>¿Por qué Legal Nest</span></a></li>
+               <li class="nomargin"><a href="legal-nest.php"><span>¿Por qué Legal Nest?</span></a></li>
                <li class="nomargin"><a href="que-no-somos.php"><span>¿Qué no somos?</span></a></li>
                <li class="nomargin"><a href="nuestro-equipo.php"><span>Nuestro equipo</span></a></li>
                <li class="nomargin"><a href="testimoniales.php"><span>Testimoniales</span></a></li>
@@ -62,7 +62,7 @@
             <span>¿QUIÉNES SOMOS?</span>
           </li></a>
           <ul id='dropdown1' class='dropdown-content'>
-            <li class="nomargin"><a href="legal-nest.php"><span>¿Por qué Legal Nest</span></a></li>
+            <li class="nomargin"><a href="legal-nest.php"><span>¿Por qué Legal Nest?</span></a></li>
             <li class="nomargin"><a href="que-no-somos.php"><span>¿Qué no somos?</span></a></li>
             <li class="nomargin"><a href="nuestro-equipo.php"><span>Nuestro equipo</span></a></li>
             <li class="nomargin"><a href="testimoniales.php"><span>Testimoniales</span></a></li>

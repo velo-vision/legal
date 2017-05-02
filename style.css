@@ -794,6 +794,7 @@ padding: 10px 0 !important;
   margin-top: 50px;
   padding: 5px 0 !important;
   text-align: center;
+  margin: 50px auto;
 }
 .paquetes{
   color: #2e3341;
@@ -1190,6 +1191,9 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:1400px) and (max-width:1700px){
+  .in-house23 img{
+    width: 300px;
+  }
   .menu-legal ul li {
     display: inline-block;
     padding: .5em 2.5em;
@@ -1241,6 +1245,12 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:1200px) and (max-width:1400px){
+  .volver23{
+    padding-top:30px !important;
+  }
+  .in-house23 img{
+    width: 280px;
+  }
   .bg-quienes7{
     padding: 9.3% 0 !important;
   }
@@ -1400,6 +1410,15 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:992px) and (max-width:1200px){
+  .servicios-consolidada {
+    padding-left: 70px !important;
+}
+  .volver23{
+    padding-top:30px !important;
+  }
+  .in-house23 img{
+    width: 230px;
+  }
   .testimonio1 p {
       font-size: 30px !important;
   }
@@ -1641,7 +1660,7 @@ padding: 10px 0 !important;
   }
   .boton-startup {
     max-width: 90%;
-    font-size: .9em;
+    font-size: .8em !important;
   }
   .paquete-startup {
     font-size: 1.5em;
@@ -1658,6 +1677,12 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:768px) and (max-width:992px){
+  .in-house23 img{
+    width: 350px;
+  }
+  .volver23{
+    text-align: center;
+  }
   .testimonio1 p {
     font-size: .9em !important;
 }
@@ -1871,10 +1896,17 @@ padding: 10px 0 !important;
   }
   .startup-paquete {
     font-size: 1em;
+    text-align: center;
   }
 }
 
 @media only screen and (min-width:600px) and (max-width:768px){
+  .in-house23 img{
+    width: 250px;
+  }
+  .volver23{
+    text-align: center;
+  }
   .testimonio1 p {
     font-size: 1.3em !important;
 }
@@ -1932,6 +1964,7 @@ padding: 10px 0 !important;
   }
   .startup-paquete {
     font-size: 1em;
+    text-align: center;
   }
 }
 
@@ -2162,6 +2195,9 @@ padding: 10px 0 !important;
 }
 
 @media only screen and (min-width:1200px) and (max-width:1400px){
+  .servicios-consolidada {
+    padding-left: 50px !important;
+}
   .top1-100 {
     margin-top: 30px !important;
 }
